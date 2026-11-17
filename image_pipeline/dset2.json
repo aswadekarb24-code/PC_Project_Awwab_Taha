@@ -1,0 +1,23 @@
+{
+  "datasets": [
+    {
+      "name": "landscape_100",
+      "path": "/home/archuserbtw/Github Projects/PC_Lab/image_pipeline/data/landscape_100",
+      "output_path": "/home/archuserbtw/Github Projects/PC_Lab/image_pipeline/output/landscape_100_demo.mp4",
+      "widthHeight": [
+        {
+          "width": 1920,
+          "height": 1080
+        }
+      ],
+      "intermediateFrames": [
+        10
+      ],
+      "keepVideo": {
+        "width": 1920,
+        "height": 1080,
+        "intermediateFrames": 10
+      }
+    }
+]
+}

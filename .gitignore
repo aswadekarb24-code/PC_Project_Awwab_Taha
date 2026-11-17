@@ -1,0 +1,12 @@
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+*.class
+*.jar
+*.pyc
+build/
+data/
+output/
+results/
